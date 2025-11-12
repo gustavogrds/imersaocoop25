@@ -30,12 +30,12 @@ Este repositório contém os materiais da apresentação realizada durante o eve
 
 ```
 📦 Repositório
- ┣ 📁 apresentacao/
- ┃ ┗ 📄 [Seus arquivos de apresentação]
- ┣ 📁 materiais/
- ┃ ┗ 📄 [Materiais complementares]
- ┣ 📁 referencias/
- ┃ ┗ 📄 [Referências e links úteis]
+ ┣ 📁 data/
+ ┃ ┗ 📄 [Dados Utilizados no Exemplo Prático]
+ ┣ 📁 modelo/
+ ┃ ┗ 📄 [Jupyter Notebook executável com o Toy Model]
+ ┣ 📁 Comics/
+ ┃ ┗ 📄 [Arquivo de exemplo com o Problema dos Quadrinhos do Batman]
  ┗ 📄 README.md
 ```
 
@@ -76,28 +76,30 @@ Este repositório contém os materiais da apresentação realizada durante o eve
 
 ### Materiais Complementares
 
-*[Liste aqui links para planilhas, dashboards, estudos de caso ou outros recursos compartilhados]*
+*[Links de Vídeos Interessantes para assistir sobre Data e AI]*
+[How AI works in everyday life | Google AI](https://www.youtube.com/watch?v=oJC8VIDSx_Q&t=145s)
+[Machine Learning: Living in the Age of AI | A WIRED Film](https://www.youtube.com/watch?v=ZJixNvx9BAc&t=130s)
+[How AI can improve your life | BBC Ideas](https://www.youtube.com/watch?v=U7Gj2e35YXA)
+
 
 ### Ferramentas Utilizadas
 
-*[Mencione ferramentas, frameworks ou metodologias apresentadas]*
-
+*[Jupyter Notebook do Google Colab]*
+[Google Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
 ---
 
 ## 🤝 Contato
 
 Para dúvidas ou discussões sobre o conteúdo apresentado:
 
-- 📧 Email: [gustavogrds@gmail.com]
-- 💼 LinkedIn: [(https://www.linkedin.com/in/gustavogrds/)]
+- 📧 Email: [gustavo.rsilva@bradeesco.com.br]/[enrico.a.chiavegato@bradeesco.com.br]
+- 💼 LinkedIn: [(https://www.linkedin.com/in/gustavogrds/),(https://www.linkedin.com/in/enrico-antonio-chiavegato-58738a4/)]
 
 ---
 
 ## 📝 Licença
 
 Este material foi desenvolvido para fins educacionais no contexto da ImersãoCoop Gestão de Crédito.
-
-*[Escolha e adicione a licença apropriada: MIT, CC BY, etc.]*
 
 ---
 
