@@ -77,6 +77,7 @@ Este repositório contém os materiais da apresentação realizada durante o eve
 ### Materiais Complementares
 
 *[Links de Vídeos Interessantes para assistir sobre Data e AI]*
+
 [How AI works in everyday life | Google AI](https://www.youtube.com/watch?v=oJC8VIDSx_Q&t=145s)
 [Machine Learning: Living in the Age of AI | A WIRED Film](https://www.youtube.com/watch?v=ZJixNvx9BAc&t=130s)
 [How AI can improve your life | BBC Ideas](https://www.youtube.com/watch?v=U7Gj2e35YXA)
@@ -93,7 +94,7 @@ Este repositório contém os materiais da apresentação realizada durante o eve
 Para dúvidas ou discussões sobre o conteúdo apresentado:
 
 - 📧 Email: [gustavo.rsilva@bradeesco.com.br]/[enrico.a.chiavegato@bradeesco.com.br]
-- 💼 LinkedIn: [(https://www.linkedin.com/in/gustavogrds/),(https://www.linkedin.com/in/enrico-antonio-chiavegato-58738a4/)]
+- 💼 LinkedIn: [Gustavo](https://www.linkedin.com/in/gustavogrds/),[Enrico](https://www.linkedin.com/in/enrico-antonio-chiavegato-58738a4/)
 
 ---
 
