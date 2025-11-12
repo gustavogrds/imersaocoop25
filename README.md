@@ -93,7 +93,7 @@ Este repositório contém os materiais da apresentação realizada durante o eve
 
 Para dúvidas ou discussões sobre o conteúdo apresentado:
 
-- 📧 Email: [gustavo.rsilva@bradeesco.com.br]/[enrico.a.chiavegato@bradeesco.com.br]
+- 📧 Email: [gustavo.rsilva@bradesco.com.br]/[enrico.a.chiavegato@bradesco.com.br]
 - 💼 LinkedIn: [Gustavo](https://www.linkedin.com/in/gustavogrds/),[Enrico](https://www.linkedin.com/in/enrico-antonio-chiavegato-58738a4/)
 
 ---
