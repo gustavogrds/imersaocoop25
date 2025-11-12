@@ -9,6 +9,7 @@
 </div>
 
 ---
+<img width="1117" height="377" alt="image" src="https://github.com/user-attachments/assets/da125085-2d73-479e-9bb9-7aa75db8b08f" />
 
 ## 🎯 Sobre o Evento
 
