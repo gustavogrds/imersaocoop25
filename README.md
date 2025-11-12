@@ -62,15 +62,13 @@ Este repositório contém os materiais da apresentação realizada durante o eve
 
 ## 👨‍🏫 Sobre a Apresentação
 
-> *[Adicione aqui informações sobre sua apresentação, tema abordado e principais pontos discutidos]*
+> *Vamos discutir como o uso de IA e Machine Learning podem acelerar as decisões de crédito, garantindo o controle do risco.*
 
 ### Temas Abordados
 
 - [ ] Gestão de risco de crédito
 - [ ] Análise de inadimplência
 - [ ] Governança de carteira
-- [ ] Ambiente regulatório
-- [ ] Práticas específicas para cooperativas
 
 ---
 
